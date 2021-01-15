@@ -1,0 +1,15 @@
+{
+  "name": "dins-test-ui",
+  "version": "1.0.0",
+  "description": "UI test of DINS website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lyapunova Yuliya",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^87.0.5",
+    "selenium-webdriver": "^4.0.0-alpha.8"
+  }
+}
